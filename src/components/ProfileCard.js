@@ -8,6 +8,7 @@ function ProfileCard(props) {
       <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
         <div className="px-14">
           <img
+            alt={dcName}
             src={require(`../assets/img/${img}`)}
             className="shadow-lg rounded-full mx-auto"
             data-tip
