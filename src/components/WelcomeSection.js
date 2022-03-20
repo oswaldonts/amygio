@@ -29,7 +29,7 @@ function WelcomeSection() {
                     Cortesía de Rodri19
                   </ReactTooltip>
                   <p className="text-lg text-blueGray-200 text-white">
-                    Hola a todos!!! Soy AmyGio (A.K.A. Amy D. Gio), biotecnóloga de día que lucha para 
+                    Hola a todos!!! Soy AmyGio (A.K.A. Amy D. Gio), bióloga de día que lucha para 
                     salvar al mundo del innombrable (el cobicho hehehe) y streamer de noche (porque todo 
                     superhéroe necesita de un pasatiempo xD) que gusta de ver anime y jugar, pricipalmente
                     league of legends, tambien damos consejos de vida y tenemos dos mascotas.
