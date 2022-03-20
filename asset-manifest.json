@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amygio/static/css/main.969637f1.css",
-    "main.js": "/amygio/static/js/main.92b94775.js",
+    "main.js": "/amygio/static/js/main.dee55fbf.js",
     "static/media/amygio_logo.png": "/amygio/static/media/amygio_logo.5c6a0626807a0a2725b5.png",
     "static/media/soraka-star.jpg": "/amygio/static/media/soraka-star.71d372b3541b2345168d.jpg",
     "static/media/one-piece.jpg": "/amygio/static/media/one-piece.41c848ddeef1cb35508a.jpg",
@@ -11,10 +11,10 @@
     "static/media/the-gamer.jpg": "/amygio/static/media/the-gamer.5e35d12fbdb2d2ac7a30.jpg",
     "index.html": "/amygio/index.html",
     "main.969637f1.css.map": "/amygio/static/css/main.969637f1.css.map",
-    "main.92b94775.js.map": "/amygio/static/js/main.92b94775.js.map"
+    "main.dee55fbf.js.map": "/amygio/static/js/main.dee55fbf.js.map"
   },
   "entrypoints": [
     "static/css/main.969637f1.css",
-    "static/js/main.92b94775.js"
+    "static/js/main.dee55fbf.js"
   ]
 }
