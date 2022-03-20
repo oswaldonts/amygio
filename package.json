@@ -1,5 +1,5 @@
 {
-  "name": "amygio",
+  "name": "testapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,5 +47,5 @@
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
   },
-  "homepage": "https://oswaldtzh.github.io/amygio"
+  "homepage": "https://oswaldtzh.github.io/testapp"
 }
