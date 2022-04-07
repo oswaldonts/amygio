@@ -2,9 +2,9 @@
 
 This a fan page for streamer [AmyGio](https://twitch.tv/amygio) with a summary of some activities she does with the community while streaming.
 
-To open the fan page use the following link [oswaldtzh.github.io/amygio](oswaldtzh.github.io/amygio)
+To open the fan page use the following link [oswaldtzh.github.io/amygio](https://oswaldtzh.github.io/amygio)
 
-To install it first clone the project with github then run the following commands
+To install it first clone the project with git then run the following commands
 
 ### `npm install`
 
